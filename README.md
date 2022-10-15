@@ -86,7 +86,7 @@ This project focuses on serving images and videos on Express. After you finish, 
 - Look up your computer WiFi IP from network configuration.
 - On a smarthphone or another computer, browser to the WiFi IP with the port #, your `index.html ` should pop up.
 
-- An [example of Express Static Route](https://mdn.github.io/learning-area/javascript/building-blocks/gallery/) from GitHub.
+- An [example of Express Static Route](https://github.com/whypam/Express-Static-Route-Example.git) from GitHub.
 
 ## Bonus Task
 
