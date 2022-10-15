@@ -85,7 +85,8 @@ This project focuses on serving images and videos on Express. After you finish, 
 - You should see `index.html`.
 - Look up your computer WiFi IP from network configuration.
 - On a smarthphone or another computer, browser to the WiFi IP with the port #, your `index.html ` should pop up.
-
+- Make sure other devices share the same WiFi.
+- If your computer is set up for a static IP, other devices should be able to brower your site from anywhere with Internet connection.
 - An [example of Express Static Route](https://github.com/whypam/Express-Static-Route-Example.git) from GitHub.
 
 ## Bonus Task
