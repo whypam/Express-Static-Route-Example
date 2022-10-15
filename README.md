@@ -6,7 +6,7 @@ In this project, you'll build a gallery to showcase images and videos that may b
 
 1. Install NPM and Node.
 2. Set up an Express server.
-3. Configure the server to server static files (images and videos in this project).
+3. Configure the server to serve static files (images and videos in this project).
 4. Design and build a webpage with HTML and CSS for the gallery.
 5. Use JavaScript to make the gallery interactive.
 
