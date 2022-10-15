@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+  <title>HTML, CSS, JS & Express</title>
+</head>
+<body>
+  <header class="flex-container">
+    <span id="show-images">Show Images</span>
+    <span id="show-videos">Show Videos</span>
+    <span id="show-all">Show All</span>
+    <span id="hide-all">Hide All</span>
+  </header>
+  <section id="images-section" class="flex-container" style="display:none;">
+    <img src="/images/lemon-lime-01.jpg" alt="lemon lime"/>
+    <img src="/images/pepper-02.jpg" alt="pepper"/>
+    <img src="/images/vinegar-01.jpg" alt="vinegar"/>
+    <img src="/images/ginger-01.jpg" alt="ginger"/>
+  </section>
+  <section id="videos-section" class="flex-container" style="display:none;">
+    <iframe width="600px" height="350px" src="/videos/muffins.mp4" title="Muffins" frameborder="0"></iframe>
+  </section>
+</body>
+<script type="module" src="script.js"></script>
+</html>

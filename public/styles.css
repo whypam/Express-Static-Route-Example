@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #777777;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+span,
+span:hover {
+  color: #777777;
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px 20px 5px 20px;
+  border-bottom: 1px solid #339999;
+}
+
+span:hover, span:active, span:visited {
+  font-weight: bold;
+  cursor: grab;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+section {
+  padding-top: 50px;
+}
+
+img {
+  width: 400px;
+}
