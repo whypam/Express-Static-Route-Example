@@ -12,7 +12,7 @@ In this project, you'll build a gallery to showcase images and videos that may b
 
 ## Starter Code
 
-This repo (Express-Static-Route-Starter) provides a basic Express setup for you to start with. `package.json` contains metadata about this project is required before publishing to npm, and also defines functional attributes of the project that npm uses to install dependencies, run scripts, and identify the entry point to the package. As you see in `package.json`, the entry point for this project is `index.js` defined to `main` attribute. You can have any name you want for the entry point, just make the file name matches with it.
+This repo ([Express-Static-Route-Starter](https://github.com/whypam/Express-Static-Route-Starter.git)) provides a basic Express setup for you to start with. `package.json` contains metadata about this project is required before publishing to npm, and also defines functional attributes of the project that npm uses to install dependencies, run scripts, and identify the entry point to the package. As you see in `package.json`, the entry point for this project is `index.js` defined to `main` attribute. You can have any name you want for the entry point, just make the file name matches with it.
 
 ## Steps
 
