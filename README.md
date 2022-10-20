@@ -1,6 +1,6 @@
 # Project: Serving Images and Videos on Express Server
 
-In this project, you'll build a gallery to showcase images and videos that may be similar to what you've done before. But this time you'll run an Express server to serve the image gallery that means you can provide an URL to your friends, and they can browser the gallery on their computers or smartphones.
+In this project, you'll build a gallery to showcase images and videos that may be similar to what you've done before. But this time you'll run an Express server to serve the image gallery that means you can provide an URL to your friends, and they can browse the gallery on their computers or smartphones.
 
 ## Your Task
 
@@ -84,9 +84,9 @@ This project focuses on serving images and videos on Express. After you finish, 
 - Open a browser and enter `localhost:[the port you set to listen to]`.
 - You should see `index.html`.
 - Look up your computer WiFi IP from network configuration.
-- On a smarthphone or another computer, browser to the WiFi IP with the port #, your `index.html ` should pop up.
+- On a smarthphone or another computer, browse to the WiFi IP with the port #, your `index.html ` should pop up.
 - Make sure other devices share the same WiFi.
-- If your computer is set up for a static IP, other devices should be able to brower your site from anywhere with Internet connection.
+- If your computer is set up for a static IP, other devices should be able to browe your site from anywhere with Internet connection.
 - An [example of Express Static Route](https://github.com/whypam/Express-Static-Route-Example.git) from GitHub.
 
 ## Bonus Task
