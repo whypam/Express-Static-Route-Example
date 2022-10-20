@@ -1,6 +1,6 @@
 # Project: Serving Images and Videos on Express Server
 
-In this project, you'll build a gallery to showcase images and videos that may be similar to what you've done before. But this time you'll run an Express server to serve the image gallery that means you can provide an URL to your friends, and they can browse the gallery on their computers or smartphones.
+In this project, you'll build a gallery to showcase images and videos that may be similar to what you've done before. But this time you'll run an Express server to serve the image and video gallery that means you can provide an URL to your friends, and they can browse the gallery on their computers or smartphones.
 
 ## Your Task
 
