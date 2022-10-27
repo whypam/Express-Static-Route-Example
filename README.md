@@ -43,8 +43,8 @@ You may choose any code editor you like. [Visual Studio Code](https://code.visua
 ### Set up Express Static Routes
 
 1. Open `Express-Static-Route-Starter` repo in the editor you installed.
-2. You'll see hints in `index.js` for setting up static routes to serve index.html, images and videos on Express. `app` is defined for you to use Express APIs.
-3. You'll need these Express APIs to set up routes and a port to listen to:
+2. You'll see hints in `index.js` for setting up static routes to serve index.html, images and videos on Express. `app` is defined for you to use Express methods.
+3. You'll need these Express methods to set up routes and a port to listen to:
 
 - `app.use()`
 - `app.listen()`
@@ -79,7 +79,7 @@ Be creative and apply what you learned about JavaScript to make the page interac
 
 1. You may define `id` or `class` to HTML elements and reference them using `document.querySelector("")`.
 2. Add an listener for click events to an element with `element.addEventListener('click', () => {})`
-3. Then you can modify the elements style and/or the elements content in the arrow function (`() => {}` - the 2nd parameter of `addEventListener` API).
+3. Then you can modify the elements style and/or the elements content in the arrow function (`() => {}` - the 2nd parameter of `addEventListener` method).
 
 ## Expected Results
 
